@@ -5,6 +5,7 @@
         "initializer_list": "cpp",
         "utility": "cpp",
         "functional": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "sstream": "cpp"
     }
 }
