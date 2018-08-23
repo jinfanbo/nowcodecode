@@ -7,5 +7,6 @@
         "functional": "cpp",
         "limits": "cpp",
         "sstream": "cpp"
-    }
+    },
+    "python.jediEnabled": false
 }
